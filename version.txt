@@ -1,5 +1,5 @@
-﻿version=2.4
+﻿version=2.6
 url=https://raw.githubusercontent.com/jpraj7907-cmd/rk-booster-updates/main/Rajkishor_XL_Booster.xlam
-sha256=488620b6e39fe9373ad86f7c19147f8c95d81c60cb8c808856f774fe89679266
-notes=PDF Tools: Workbook PDF and Sheet PDF now let you choose the paper size (A4, A3, A5, Letter, Legal, Tabloid, B4, B5, Executive) together with the orientation. 
-sig=1Q48CJYGIFofZ192ncMXto+IBU0jQsaatrP9xtGxmPHx89lQyMJ4KDDqKpLU8GzaA0rIN545eqytUVcWYedZ5PCzJJLwVt3nQqF+DJdGihx7Y4d+tCIworUw9rkAqIfuCSfa8SFQU0hycvWURxCwtb4TcxD7ge5ms+zwpqEfoQMWCLtwRIsL/PfbQ5nhGL6tXeLCs2HMozfLt9QP3hkCNzYLDas5AlqOiwkLxmJILQpelNpcR+pVb3HcuSwjPngbC9Tck5G//433ldNZVe3izzS3wekj8RECpJ9Rg6KBca21N3sj5EG1vbT1CooajZvXJGJ8RhSzOBqXdvRSiP2xPQ==
+sha256=be5761ea23035b42ef8c5642e4f9bee6a91687237893ef37dcd9636371bb95cc
+notes=AI Function Builder: new VBA Function Builder window (AI Generate UDF) with function name, prompt, code preview and Add to Workbook. 
+sig=QFL4fHpeZH9SvGrcleiTzsTCTlNL+0mXiaTVWpfqkuVkUFAvDAU8a/3PhoxnWbBN92u4pJ+Ad89LbmCGNvG6GRsiyeTgBnWjC0FlGVDQwVVj7O/ZTaNyJuOmFt5NKY/Bo0tPfXdmQ/cz/tM8wyQ+cc8UFbqy8zJQX5R6NxYnKXUICrHTADpp4LHheg+jmQ1SL6P5zO2CZLj7FIhorJbyjhTxIeKHtGuaC2a6kp+QGsiWgUbR4YqNZbwth8RURnu1oaXsjFr8hK3djngSioYnop8dmYFaFERKAqajfEjZ3oLJeScUtdUxh6Mp/CzFD+R+sWEKEtYOtoyalICYmuesdw==

@@ -1,5 +1,5 @@
-﻿version=2.3
+﻿version=2.4
 url=https://raw.githubusercontent.com/jpraj7907-cmd/rk-booster-updates/main/Rajkishor_XL_Booster.xlam
-sha256=b0c763c251f1fb3580c7cf780efac5ea43a145a44975857b810cf9b67cfb97bc
-notes=Publish Update: new add-in files can now be published with one click.
-sig=rZS1plXB0R6dt09zKJ+sKikNUAp1LcHvIzvPZofYgi7EIJeeFEN/6lJZO6UkHzMbjcwQS7iKtvHeersuF9TUO0q4XwcOSqLox3h2+PnxD/56o/BHEHh03jwLFjfq+q7whLjDJyn0l52DANZl0Kbf0pLI4Yh0Ldt4t1ijl1ft3yBQCoKO+XWfSi/OhFFGoCdLI4Pd1viddowomLwz0dm+yTeCvV7d6OdFJx9GUrJ1XUdhOiiqqjL1YFWkNuqFZgOnXbsjRMIXKDhCijgNpHXcUvYRXvq0uCIMANtZgC+HrmHYe5FefRJNV2o30aavpXe24SkKHmyWJihvID0GtnW0ZQ==
+sha256=10c080d0d0a4e89af6c49bb03bf7961526e02e50fd2c16343e25037e1573366b
+notes=PDF Tools: Workbook PDF and Sheet PDF now let you choose the paper size (A4, A3, A5, Letter, Legal, Tabloid, B4, B5, Executive) together with the orientation. 
+sig=o9xDLpljUDSOOJW+38hkIr+PLsr7YlJzVMV4ZgxWM14cm0Dt237Z/tmjkcehslECliKtbg0ILSRGzPSRTWqrHwtEUdTePDlAwBjB4lxXCII3yHyBf3+MJtrnOFcNlLbUo6J9XjtDsGetTYn+u39oxtz31DwFXCRPEE6stbdM8BFdFzrd/aaJTH5D40tWORLYvUsEKhd7UZuFbRKzFgVZ0O3uHfVh3KgTYba8NaZalWOdVV5upBwB/YqrmbEQawOm6HMHyXyD8OTQidR1gMpy/GQgG9ZxcOiVsVrVjWW8Ocsh/9Js9iRcU2aq4Kp/VjW2SIZu92j/TSAjZ5raaTtzwA==

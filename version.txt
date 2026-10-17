@@ -1,5 +1,5 @@
-﻿version=2.6
+﻿version=2.7
 url=https://raw.githubusercontent.com/jpraj7907-cmd/rk-booster-updates/main/Rajkishor_XL_Booster.xlam
-sha256=76118ed267142e1476d9131d0e201d503c182bfbf17b68237d781dd5e008f242
-notes=AI Function Builder: new VBA Function Builder window (AI Generate UDF) with function name, prompt, code preview and Add to Workbook. 
-sig=JHIfZlECcuARIHLT1MqEK91TCGFuaZNyKUxe5nEmHeAwEr5KaAzlyjBw1WqEujs6a5I91esPd+QyOcGxefMXMe8kjQ0AlO9QsfKLP+61D1lEsf0gyMjV6Y4AWeJRQjKiNA6j40FATP2GXAEjPN56WvaUMLAuQ5evlRQBucRU6ScTdZ6qKLC8fBlR37VXcBSygNVbcnZlB93mYLnBYqd8HoCjIQ+HQlr0BKpemBpfOyuW2eP6MW9LACvS72qeFEstO3bGwRCxAZf82lvz+PubfY5iCsgEH9zZEZhGEXz5o8CnjIfWiNsGTFRuOMJUZeDFihjtNxn5Fuk888qj1Rsodw==
+sha256=4e21394cae8896714f6b169763edc7f28c38bef32abc6839b46d465e4bd1c582
+notes=AI Generate UDF: functions can now be saved to My Function Library, so they work in all workbooks and stay after Excel is closed and opened again.
+sig=3TBJ2pznrkbo30UCwZ1HrNzs7gmS8/JRlPNVhv65bVl5unZPTYU+rxPANuLJEMCn3mt+AHz456h2+SHY5ANtq+pi/EDTqfGS8rOumX5257w6kYx9/a9SwpD8HmV0VQgD7K/r7DJYJfVJtZ6jXIr3Th3+WK9Eat+JqLsvCXdfNCsxNpN9p6JYsX5GNNVFQYT/7DI6oaUzHhmXrVT4kA3/s1Mj5hPmWIfklZprJQp/th4pHoTQoS6ZHn1d3Uk6aBf7DYLtyR3jeVAurmgM/8mQ3sf/40cyuqSsvMP3Ce99FyXIXd3dWZ1X783yJPs8v1dV1Mb9VF5o+jbpSgasWdosdg==

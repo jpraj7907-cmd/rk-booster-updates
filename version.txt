@@ -1,5 +1,5 @@
-﻿version=2.9
+﻿version=3.0
 url=https://raw.githubusercontent.com/jpraj7907-cmd/rk-booster-updates/main/Rajkishor_XL_Booster.xlam
-sha256=b24e11d8d1e5675345426abf5111b14e221b8bcd837bfb907e416be48d2e7a67
-notes=PRO price Rs. 997 one-time: Upgrade to PRO window with UPI QR, payment-checked licenses, lifetime updates for licensed PCs.
-sig=lnXOBfil/Ex4NSj9SnhfFDEvD1S63n7eRTaM+aFXA35bwgJBSEz+QH4WenclVJtgtSZsZKv71gEm/cou1kglewZNxgnbH0B76KEIrzugp6ZdcD0zANhBgJk3ChWa7oZbd46QCgYtiDPPJ7vp1XN83bGx4A9uBIvLd7o8Z1UqaC+/dDTKvls5/pPCCPWa6xSSjUM8RzqntV2iIAa6dFxjrP9p501aD6QkdhWjNRh0R0Zif3xqV+zpaVpj37Dii34fgtcwSduTKc3GwLgT20g/LL0IrRKkV9aVvptk/vyuvZ/e5He07rx5W389RLk5/IemXB8jnxc95AzCCi7en9vQXQ==
+sha256=d57d9eaec268d3961b675edb3b9102ccd2e8e115b5af3a0bd7432064d35383ff
+notes=License security: key built into the add-in, license IDs, publisher can cancel any license, paid licenses are tied to the customer PC.
+sig=niKwPfbA19L32oCmBHECmEcQVLTgkl6kOUCJNnBwYWJzsCLcUCA2vTXrs3z2vPLHBDo2Yrq1GIuN+71B6NNwrUZzxgllFrC7SkN99+ksupk5NWyrj3VX5nkF571NCE4b43gS54ft1HN+lujyqgiO7BE3WTQfB4tueysTQiHLh4UF2h9eKtRSVlb6Aa/GBy+02hcIF9xODwjrnT+It7sW31I+i5TiHPN+EYD5cVGl74EZt466hW7umL4hKh3VzoiDunKmPbbpHN66Xqo600ICKQoAcXURQhVhsU0mw6etytZXcZjyPSZVNTVXjdNzjpFJlih6SLBuXogHCi2nfYzGyQ==

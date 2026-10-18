@@ -1,5 +1,5 @@
-﻿version=2.8
+﻿version=2.9
 url=https://raw.githubusercontent.com/jpraj7907-cmd/rk-booster-updates/main/Rajkishor_XL_Booster.xlam
-sha256=493312123ec8aee2cdf917b45d900af60412f50093b15ae4bf0588f4c6fe4838
-notes=FREE / PRO licensing: PRO features unlock with a license file. See Info > License.
-sig=2fnRdwO70oUoBy0c5kLGS6aEr1mHXKK0RsdB0paGpxOyUF5fnEi1YQaqy/BQpPUrPQbolvHalMWVyoSztJHhxvMmwGMyZgS8ihqiqFvS2oVZmFyPntdEp9Tg3J+PU6VMgpx3QNp07jWEHGp65d1t+GmAs2JZwuolc+0AuxHxHnxmvVoXeGvocwfKIoOZyK6mEJNJUsITzxRDYZ9g9Fom4MEQSDcZmU7dqdHXdC6WTtPoDCsClYU7pfdsjwVFIeE3zyjCmBqjZ4Qtpiz2rntDOMSFV4F9ca+UdWmbozkje0lsn56+2rbNPLVySXY7w5iZIwpz7e9NwYfv4psNhmZBZg==
+sha256=b24e11d8d1e5675345426abf5111b14e221b8bcd837bfb907e416be48d2e7a67
+notes=PRO price Rs. 997 one-time: Upgrade to PRO window with UPI QR, payment-checked licenses, lifetime updates for licensed PCs.
+sig=lnXOBfil/Ex4NSj9SnhfFDEvD1S63n7eRTaM+aFXA35bwgJBSEz+QH4WenclVJtgtSZsZKv71gEm/cou1kglewZNxgnbH0B76KEIrzugp6ZdcD0zANhBgJk3ChWa7oZbd46QCgYtiDPPJ7vp1XN83bGx4A9uBIvLd7o8Z1UqaC+/dDTKvls5/pPCCPWa6xSSjUM8RzqntV2iIAa6dFxjrP9p501aD6QkdhWjNRh0R0Zif3xqV+zpaVpj37Dii34fgtcwSduTKc3GwLgT20g/LL0IrRKkV9aVvptk/vyuvZ/e5He07rx5W389RLk5/IemXB8jnxc95AzCCi7en9vQXQ==

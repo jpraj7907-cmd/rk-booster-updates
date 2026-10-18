@@ -1,5 +1,5 @@
-﻿version=2.7
+﻿version=2.8
 url=https://raw.githubusercontent.com/jpraj7907-cmd/rk-booster-updates/main/Rajkishor_XL_Booster.xlam
-sha256=4e21394cae8896714f6b169763edc7f28c38bef32abc6839b46d465e4bd1c582
-notes=AI Generate UDF: functions can now be saved to My Function Library, so they work in all workbooks and stay after Excel is closed and opened again.
-sig=3TBJ2pznrkbo30UCwZ1HrNzs7gmS8/JRlPNVhv65bVl5unZPTYU+rxPANuLJEMCn3mt+AHz456h2+SHY5ANtq+pi/EDTqfGS8rOumX5257w6kYx9/a9SwpD8HmV0VQgD7K/r7DJYJfVJtZ6jXIr3Th3+WK9Eat+JqLsvCXdfNCsxNpN9p6JYsX5GNNVFQYT/7DI6oaUzHhmXrVT4kA3/s1Mj5hPmWIfklZprJQp/th4pHoTQoS6ZHn1d3Uk6aBf7DYLtyR3jeVAurmgM/8mQ3sf/40cyuqSsvMP3Ce99FyXIXd3dWZ1X783yJPs8v1dV1Mb9VF5o+jbpSgasWdosdg==
+sha256=493312123ec8aee2cdf917b45d900af60412f50093b15ae4bf0588f4c6fe4838
+notes=FREE / PRO licensing: PRO features unlock with a license file. See Info > License.
+sig=2fnRdwO70oUoBy0c5kLGS6aEr1mHXKK0RsdB0paGpxOyUF5fnEi1YQaqy/BQpPUrPQbolvHalMWVyoSztJHhxvMmwGMyZgS8ihqiqFvS2oVZmFyPntdEp9Tg3J+PU6VMgpx3QNp07jWEHGp65d1t+GmAs2JZwuolc+0AuxHxHnxmvVoXeGvocwfKIoOZyK6mEJNJUsITzxRDYZ9g9Fom4MEQSDcZmU7dqdHXdC6WTtPoDCsClYU7pfdsjwVFIeE3zyjCmBqjZ4Qtpiz2rntDOMSFV4F9ca+UdWmbozkje0lsn56+2rbNPLVySXY7w5iZIwpz7e9NwYfv4psNhmZBZg==

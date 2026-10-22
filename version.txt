@@ -1,5 +1,5 @@
-﻿version=3.1
+﻿version=3.2
 url=https://raw.githubusercontent.com/jpraj7907-cmd/rk-booster-updates/main/Rajkishor_XL_Booster.xlam
-sha256=2cf03232a9be8727f49cb2500fa90792cf08bad45ed007324ac681827a3e56c4
-notes=Users edition: publisher-only tools removed. License security from v3.0 included.
-sig=cNGcoCNXt2KO7amKB9xjWPw0LX1KxGpG+ulEMNAGnZNiDwXgf8C6y4vW7c/QI7ddM23wPBs5ZlR6j6V73P0gvZ8+dUoYI8BvtpLZvS4CxWa3gx6OjorvdGzCrw/1ny6Y1vjuYiqW1yr6eVJ9dNH8YmDWn6LENIBEAGCa8fSQxSDxBnf6TjpP8aZa9Cnlj+EBfTqLt1denccFQ/N580vyXL0cdzSpKtgD4Iw+Ng3/d09+1A/GZDIlNGTVNjpRO6mk8a/axjy/I9cYRkl90B1BxY0dsUyyMfpvJCHw8yVnFM9WhcJDbeKWKn0b/cw6MnPVZTHDLkWcu+JjsCKMQqS3bg==
+sha256=9443509c8e0a7aae147bff635e1fceacc805c5ccf15c1388bfd93c99a40460e9
+notes=Fix: PRO features (AI and others) no longer show a compile error. New interactive HTML guide: Info > Guide > Interactive Guide.
+sig=j5o3xEhNtbe8c8XI3OOb3cbvmhoEFSTOy13WS8ka7tqtBM3tvUE4OK8O7IjZgZL9mlrf32ZE/ChADyL2GVkoP9bBlAT5Rmjchmb4T/oFcOw6KG6BgtK2IMTypCJdfv3hEw29B0nznT02vvodRJ1CSNWJJUkNMCpYr6YZGgWqR6NnACogKqBbLZjXZzDCHSbhFCzpnEl9EBfBol7/D8KQhGqmLIWZy5TA5hAKxeIBQesqwYy58JlCq0jR7rwdcjwtsw3m9ZEQByiau4q14bJMcX9Z7R3kJTJgelywo4mEzyt7sqRP/HdJ/cWZt6LaxTFbSueFya1mSBH7AriJ6T4GkQ==

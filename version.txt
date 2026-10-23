@@ -1,5 +1,5 @@
-﻿version=3.2
+﻿version=3.3
 url=https://raw.githubusercontent.com/jpraj7907-cmd/rk-booster-updates/main/Rajkishor_XL_Booster.xlam
-sha256=9443509c8e0a7aae147bff635e1fceacc805c5ccf15c1388bfd93c99a40460e9
-notes=Fix: PRO features (AI and others) no longer show a compile error. New interactive HTML guide: Info > Guide > Interactive Guide.
-sig=j5o3xEhNtbe8c8XI3OOb3cbvmhoEFSTOy13WS8ka7tqtBM3tvUE4OK8O7IjZgZL9mlrf32ZE/ChADyL2GVkoP9bBlAT5Rmjchmb4T/oFcOw6KG6BgtK2IMTypCJdfv3hEw29B0nznT02vvodRJ1CSNWJJUkNMCpYr6YZGgWqR6NnACogKqBbLZjXZzDCHSbhFCzpnEl9EBfBol7/D8KQhGqmLIWZy5TA5hAKxeIBQesqwYy58JlCq0jR7rwdcjwtsw3m9ZEQByiau4q14bJMcX9Z7R3kJTJgelywo4mEzyt7sqRP/HdJ/cWZt6LaxTFbSueFya1mSBH7AriJ6T4GkQ==
+sha256=b728ab33567239f863fe937049e1733a39b671a2480b9d5e7d898beebdefed9f
+notes=Feature Lock: the publisher can lock or unlock any tool for the Free version at any time. Includes the compile-error fix and the interactive guide.
+sig=gaYPsmphVBfWi6JzDW2MUkn7u3VbJ2YQ/PasE9XzxMa+xw/n/CndDvogX0uPNlIHf2clw3GWkoHbl1EoA4WZPOImxN55xCHYmqnDV962JQ8/r+KpeKhkXKVH6WP24B23QY7eruw3ShIdWXG9csUIQyBCxx0LuB3S2hL/MscLlLEAFUQgY3GA9/gXC1DuIYisi91NBl15R2nVs3+PDjM+sJiOZGNUbZUMKyYATOe5uIeriU6GyA18a8KMGTrJAUfE6JhfHs02hi1TNXDy9BKSsINQzSUsAJKaqYBTjfkzMzghEGdhys8I+retMMbTrZElO8BWjsPd+3bcfUTYKTZT4g==
